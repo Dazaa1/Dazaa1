@@ -79,8 +79,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=750 src="https://github-readme-stats.vercel.app/api?username=MLankaoui&theme=kacho_ga&show_icons=true" alt="readme stats" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MLankaoui&theme=kacho_ga" width="750" />
+  <img width=750 src="https://github-readme-stats.vercel.app/api?username=Dazaa1&theme=kacho_ga&show_icons=true" alt="readme stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dazaa1&theme=kacho_ga" width="750" />
 
 <br/><br/>
 
