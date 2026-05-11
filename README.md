@@ -1,6 +1,6 @@
 ### Welcome in Traveler!
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Dazaa1&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
 
 <img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/VWx3sCGX/image1.jpg"/>
 
