@@ -33,7 +33,7 @@
  - Watching animes 🤭
   </td>
   <td>
-    <img src="https://ibb.co/zW0kDY48" alt="MLankaoui"/>
+    <img src="https://i.ibb.co/1YwSj5ms/image2.jpg" alt="MLankaoui"/>
   </td>
 </tr>
 </table>
