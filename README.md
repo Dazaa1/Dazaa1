@@ -1,8 +1,8 @@
-### Hi there 👋
+### Welcome in Traveler!
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
 
-<img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://images3.alphacoders.com/118/118329.jpg"/>
+<img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://ibb.co/JRqC9pTX"/>
 
 <table width="100%">
 <tr>
@@ -12,13 +12,13 @@
 
 </h1>
     
-- 🔭 I’m currently working on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+- 🔭 I’m currently working on [Economy bot](https://github.com/Dazaa1/economy_bot)
 
-- 🌱 I’m currently learning **C , JavaScript**
+- 🌱 I’m currently learning **C , JavaScript, Python**
 
-- 👯 I’m looking to collaborate on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+- 👯 I’m looking to collaborate on [Economy bot](https://github.com/Dazaa1/economy_bot)
 
-- 🤝 I’m looking for help with [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+- 🤝 I’m looking for help with [Economy bot](https://github.com/Dazaa1/economy_bot)
 
 - 👨‍💻 All of my projects are available at <a href="https://marouanelankaoui.netlify.app" style="color: #CC0FE6;">https://marouanelankaoui.netlify.app</a>
 
@@ -26,28 +26,28 @@
 
 - 💬 Ask me about **C , JavaScript , Html , Css**
 
-- 📫 How to reach me <a href="mailto:marouanelankaoui66@gmail.com" style="color:#CC0FE6;">marouanelankaoui66@gmail.com</a>
+- 📫 How to reach me <a href="mailto:marouanelankaoui066@gmail.com" style="color:#CC0FE6;">marouanelankaoui66@gmail.com</a>
 
 
  ### 🌟 Hobbies:
  - Watching animes 🤭
   </td>
   <td>
-    <img src="https://images2.alphacoders.com/891/891753.jpg" alt="MLankaoui"/>
+    <img src="https://ibb.co/zW0kDY48" alt="MLankaoui"/>
   </td>
 </tr>
 </table>
 <hr>
 <div align="center">
   <h2> 🏆Trophy<h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MLankaoui&theme=darkhub&row=1&column=9" alt="mlankaoui" /></a> 
+  <p align="left"> <a href="https://github.com/Dazaa1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dazaa1i&theme=darkhub&row=1&column=9" alt="mlankaoui" /></a> 
   </p>
 <div>
 <hr>
 
 <div align="center">
 <h3 align="left">Connect with me:</h3>
-  <a href="mailto:marouanelankaoui66@gmail.com">
+  <a href="mailto:marouanelankaoui066@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://marouanelankaoui.netlify.app" target="_blank">
